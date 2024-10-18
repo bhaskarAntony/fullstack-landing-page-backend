@@ -15,6 +15,7 @@ app.use(express.json()); // No need for body-parser
 
 // Routes
 app.use('/api', require('./routes/leads'));
+app.use('/api', require('./routes/internship'));
 
 app.listen(PORT, () => {
     console.log(`Listening on http://localhost:${PORT}`);
