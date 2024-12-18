@@ -24,6 +24,10 @@ const leadsSchema = new mongoDB.Schema({
     course: {
         type: String,
         required: true
+    },
+    date:{
+        type:Date,
+        default:Date.now()
     }
 });
 

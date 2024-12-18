@@ -1,0 +1,22 @@
+{
+  "knowledge": {
+    "what is html stands": "HTML stands for HyperText Markup Language. It is the standard language used to create web pages and web applications.",
+    "what are html tags": "HTML tags are elements used to define the structure and content of a web page. They are enclosed in angle brackets, like <tag> and usually come in pairs, with an opening tag <tag> and a closing tag </tag>.",
+    "what is an html element": "An HTML element is a component of a web page defined by HTML tags. For example, <p>This is a paragraph</p> is an HTML paragraph element.",
+    "what is the purpose of the <html> tag": "The <html> tag represents the root of an HTML document. All other HTML elements are contained within this tag.",
+    "what does the <head> tag do": "The <head> tag contains meta-information about the HTML document, such as the title, character set, styles, and linked resources. This section is not displayed on the webpage.",
+    "what does the <title> tag do": "The <title> tag defines the title of the HTML document, which appears in the browser's title bar or tab.",
+    "what is the <body> tag used for": "The <body> tag defines the main content of the HTML document that is visible to users in the browser.",
+    "what is an html attribute": "An HTML attribute provides additional information about an HTML element, usually within the opening tag, like <a href='https://example.com'>Link</a>. 'href' is an attribute of the <a> tag.",
+    "what is the <a> tag used for": "The <a> tag is used to create hyperlinks, which allow users to navigate from one page to another.",
+    "what does the <img> tag do": "The <img> tag is used to embed images in an HTML page. It has attributes like 'src' to specify the image source and 'alt' to provide alternative text.",
+    "what is the purpose of the <div> tag": "The <div> tag is a block-level container used to group HTML elements together, often for styling or layout purposes.",
+    "what is the difference between <div> and <span>": "<div> is a block-level element used for grouping large sections of content, while <span> is an inline element used for grouping smaller portions of text within a line.",
+    "what is the <form> tag used for": "The <form> tag is used to create an HTML form for user input. It can contain form elements like text fields, checkboxes, and submit buttons.",
+    "what does the <input> tag do": "The <input> tag is used to create interactive fields in a form, like text fields, checkboxes, and radio buttons. It has attributes such as 'type' to specify the kind of input field.",
+    "what is the <table> tag used for": "The <table> tag is used to create a table in HTML. It is composed of rows (<tr>) and cells (<td> for data cells and <th> for header cells).",
+    "bhaskar is good": "yes",
+    "good": "",
+    "": ""
+  }
+}
