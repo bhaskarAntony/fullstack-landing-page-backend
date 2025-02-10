@@ -17,10 +17,10 @@ const eligibilitySchema = new mongoDB.Schema({
         type: String,
         required: true,
     },
-    course: {
-        type: String,
-        required: true
-    },
+    // course: {
+    //     type: String,
+    //     required: true
+    // },
     academyScore:{
         type:String,
         required:true
