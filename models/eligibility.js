@@ -21,11 +21,17 @@ const eligibilitySchema = new mongoDB.Schema({
     //     type: String,
     //     required: true
     // },
-    academyScore:{
+    sslc:{
         type:String,
         required:true
     },
-    education:{
+    puc:
+    {
+        type:String,
+        required:true
+    },
+    degree:
+    {
         type:String,
         required:true
     }
