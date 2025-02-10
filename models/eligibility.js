@@ -22,8 +22,12 @@ const eligibilitySchema = new mongoDB.Schema({
         required: true
     },
     academyScore:{
-        type:Date,
-        default:Date.now()
+        type:String,
+        required:true
+    },
+    education:{
+        type:String,
+        required:true
     }
 });
 
